@@ -1,0 +1,51 @@
+@charset "utf-8";
+#Contenedor {
+    height: 1000px;
+    width: 100%;
+}
+#Encabezado {
+    background-color: #D5461F;
+    height: 150px;
+    width: 17%;
+    float: left;
+}
+#Contenedor2 {
+    height: 700px;
+    width: 100%;
+}
+#Menu {
+    background-color: #FFC300;
+    height: 700px;
+    width: 17%;
+    float: left;
+}
+#Cuerpo {
+    background-color: #FFFFFF;
+    height: 700px;
+    width: 83%;
+    clear: none;
+    float: left;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#Contenedor3 {
+    height: 150px;
+    width: 100%;
+	clear: both;
+}
+
+#Encabezado2 {
+    background-color: #C60B1E;
+    height: 150px;
+    width: 83%;
+    float: left;
+	text-align: center;
+	font-size: 50px;
+	color: beige;
+  
+}
+
+#Pie {
+    background-color: #C70B1E;
+    height: 150px;
+    width: 100%;
+	font-size: 15px;
